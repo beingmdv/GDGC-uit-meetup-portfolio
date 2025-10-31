@@ -8,7 +8,7 @@
     "yearsOfExperience": "2",
     "bio": "I build elegant and efficient software solutions that bridge the gap between user needs and technical innovation. Passionate about creating intuitive, user-centric digital experiences.",
     "image": "/data/mdv2.jpg",
-    "heroImage": "https://github.com/beingmdv/GDGC-uit-meetup-portfolio/blob/main/src/data/mdv2.jpg"  },
+    "heroImage": "https://raw.githubusercontent.com/beingmdv/GDGC-uit-meetup-portfolio/refs/heads/main/src/data/mdv2.jpg"  },
   "navigation": [
     { "label": "Home", "href": "#home" },
     { "label": "About", "href": "#about" },
