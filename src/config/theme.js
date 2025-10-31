@@ -4,7 +4,7 @@
 // Change the PRIMARY_COLOR below and the entire website updates!
 // This is the ONLY place you need to change the color!
 
-export const PRIMARY_COLOR = "#3D7ebb"; // ⭐ CHANGE THIS COLOR!
+export const PRIMARY_COLOR = "#808000"; // ⭐ CHANGE THIS COLOR!
 
 // ============================================
 // Theme Object - Uses PRIMARY_COLOR everywhere
